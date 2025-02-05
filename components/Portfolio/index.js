@@ -57,7 +57,7 @@ const Portfolio = () => {
         '/Projects/MXA/6.png',
       ],
       github: 'https://github.com/username/ecommerce',
-      live: 'https://ecommerce-demo.com'
+      live: 'https://mxasoftware.co/login'
     },
     {
       title: 'Affinity Bank',
@@ -70,7 +70,7 @@ const Portfolio = () => {
         '/Projects/AFB/5.png',
       ],
       github: 'https://github.com/username/taskmanager',
-      live: 'https://task-manager-demo.com'
+      live: 'https://staging-admin.fitnessbank.fit/'
     },
     {
       title: 'Royal Flush',
@@ -87,7 +87,7 @@ const Portfolio = () => {
         '/Projects/RFP/9.png',
       ],
       github: 'https://github.com/username/weather',
-      live: 'https://weather-dashboard-demo.com'
+      live: 'https://staging.royalflushplumbing.app/'
     },
     {
       title: 'Venture Future Bean',
@@ -110,7 +110,7 @@ const Portfolio = () => {
         '/Projects/VFB/15.png',
       ],
       github: 'https://github.com/username/weather',
-      live: 'https://weather-dashboard-demo.com'
+      live: 'https://dev-futurebean.venatest.com/loc_7vahWZwb6/menu'
     }
   ];
 
